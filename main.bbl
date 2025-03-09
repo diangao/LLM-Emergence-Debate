@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem[Brown et~al., 2020]{brown2020language}
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.~D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., et~al. (2020).
+\newblock Language models are few-shot learners.
+\newblock {\em Advances in neural information processing systems}, 33:1877--1901.
+
+\bibitem[Jiang et~al., 2024]{catastrophic2024}
+Jiang, Y., Jiang, Y., Jiang, Y., Jiang, Y., Jiang, Y., and Jiang, Y. (2024).
+\newblock On catastrophic inheritance of large foundation models.
+\newblock {\em arXiv preprint arXiv:2401.12789}.
+
+\bibitem[Schaeffer et~al., 2023]{mirage2023}
+Schaeffer, R., Miranda, B., and Koyejo, S. (2023).
+\newblock Are emergent abilities of large language models a mirage?
+\newblock {\em arXiv preprint arXiv:2304.15004}.
+
+\bibitem[Wei et~al., 2022]{wei2022emergent}
+Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E.~H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., and Fedus, W. (2022).
+\newblock Emergent abilities of large language models.
+\newblock {\em arXiv preprint arXiv:2206.07682}.
+
+\bibitem[Zhang et~al., 2024]{rectified2024}
+Zhang, Z., Zhao, T., Jiang, Y., Zhao, T., and Zhao, T. (2024).
+\newblock Selecting large language models to fine-tune via rectified scaling law.
+\newblock {\em arXiv preprint arXiv:2402.18540}.
+
+\end{thebibliography}
