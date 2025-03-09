@@ -1,0 +1,53 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.fls
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.bbl
+*.blg
+*.dvi
+*.xdv
+*.bcf
+*.run.xml
+
+# *.pdf
+
+# BibTeX
+*.bib.bak
+*.bib.sav
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# Backup files
+*.backup
+*.bak
+*.old
+*.orig 
